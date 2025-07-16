@@ -3,7 +3,7 @@
 ====================================== */
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: url('img/IMG_0839.JPG') no-repeat center center fixed;
+  background: url('img/IMG_0839.jpeg') no-repeat center center fixed;
   background-size: cover;
   color: #333;
   margin: 0;
@@ -91,7 +91,7 @@ body {
 /* ======================================
    📌 Swiper 이미지 슬라이드
 ====================================== */
-.swiper-container {
+.swiper {
   position: relative;
   padding: 0;
   max-width: 800px;
